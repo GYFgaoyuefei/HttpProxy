@@ -12,6 +12,9 @@ public class Common {
         System.setProperty(key, System.getProperty(key, value));
         System.out.println("test8");
         System.out.println("新建的分支");
+        System.out.println("新建的分支");
+        System.out.println("新建的分支");
+        System.out.println("新建的分支");
     }
 
 
