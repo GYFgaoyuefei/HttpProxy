@@ -10,7 +10,9 @@ public class Common {
 
     public static void setDefaultProperties(String key, String value) {
         System.setProperty(key, System.getProperty(key, value));
-        System.out.println("test");
+        System.out.println("test8");
+        System.out.println("test9");
+        System.out.println("test10");
     }
 
 
