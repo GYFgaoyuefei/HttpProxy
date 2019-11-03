@@ -13,6 +13,9 @@ public class Common {
         System.out.println("test8");
         System.out.println("test9");
         System.out.println("test10");
+        System.out.println("test1");
+        System.out.println("test2");
+        System.out.println("test3");
     }
 
 
